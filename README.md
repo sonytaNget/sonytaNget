@@ -4,7 +4,7 @@
 - 💞️ I’m looking for a new opportunity in software development.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/sonyta-nget/)
 
-💬 “Programming is the art of solving abstract problems.”
+💬 Programming is the art of solving abstract problems.
 
 <!---
 sonytaNget/sonytaNget is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
